@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: victo
+Build-Jdk: 21.0.9
+Implementation-Title: Projeto Integrador
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.wmw.projeto-integrador
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/projeto-integrador
+Created-By: Maven Integration for Eclipse
+
